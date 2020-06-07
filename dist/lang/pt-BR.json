@@ -1,0 +1,55 @@
+{
+    "mu": {
+        "settings": {
+            "button": {
+                "name": "Mount Up! Configurações",
+                "label": "Mount Up!"
+            },
+            "formHeaders": {
+                "hudSettings": "Configurações da HUD",
+                "riderBehavior": "Comportamento do Montador",
+                "chatSettings": "Configuração do chat",
+                "save": "Salvar configurações"
+            },
+            "icon": {
+                "name": "Icone",
+                "hint": "O icone mostrado na HUD"
+            },
+            "hudColumn": {
+                "name": "Coluna da HUD",
+                "hint": "Qual coluna da HUD sera colocado o botão"
+            },
+            "hudTopBottom": {
+                "name": "HUD Topo/Base",
+                "hint": "Onde colocar o botão na coluna"
+            },
+            "riderLock": {
+                "name": "Os montadorees devem ser presos às montarias?",
+                "hint": "Se ativado, os montadores não poderão se mover separadamente até serem desmontados.",
+                "noLock": "Sem Bloqueio"
+            },
+            "riderRotate": {
+                "name": "Os montadorees devem rotacionar com as montarias?",
+                "hint": "Se ativado, os montadores rotacionarão juntamente com sua montaria."
+            },
+            "riderX": {
+                "name": "Alinhamento Horizontal do Montador"
+            },
+            "riderY": {
+                "name": "Alinhamento Vertical do Montador"
+            },
+            "shouldChat": {
+                "name": "Enviar mensagem para o bate-papo",
+                "hint": "As mensagens de bate-papo sobre montagem / transporte e desmontar / queda devem ser enviadas para o bate-papo?"
+            },
+            "mountMsg": {
+                "name": "Formato da Mensagem ao Montar",
+                "hint": "Como as mensagens de bate-papo de montagem devem ser formatadas, se ativadas. (use {rider} e {mount} para substituir o nome)"
+            },
+            "dismountMsg": {
+                "name": "Formato da Mensagem ao Desmontar",
+                "hint": "Como as mensagens de bate-papo de desmontar devem ser formatadas, se ativadas. (use {rider} e {mount} para substituir o nome)"
+            }
+        }
+    }
+}
